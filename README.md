@@ -4,6 +4,8 @@
 
 **让所有 AI 助手共享团队知识，打破 AI IDE 孤岛**
 
+
+
 **lanhumcp | 蓝湖mcp | lanhu-mcp | 蓝湖AI助手 | 蓝湖skills | Lanhu AI Integration**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -976,3 +978,4 @@ black lanhu_mcp_server.py
 如有任何疑问或建议，欢迎通过 [GitHub Issues](https://github.com/dsphper/lanhu-mcp/issues) 与我们交流。
 
 <!-- Last checked: 2026-05-18 08:00 -->
+
